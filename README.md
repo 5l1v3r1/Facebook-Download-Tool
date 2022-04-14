@@ -1,5 +1,3 @@
-# *** This project is not maintained anymore ***
-
 # Facebook-Video-Downloader
 
 <p align="center">
